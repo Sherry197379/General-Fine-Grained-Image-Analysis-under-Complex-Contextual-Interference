@@ -8,5 +8,5 @@ After downloading, please extract the contents into the data/ directory of this 
 .
 ├── data/
 │   └── GoogleCars/
-│       ├── train/              
+│       ├── train/
 │       ├── val/               
